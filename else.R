@@ -8,3 +8,4 @@ if (dec >= 0.5) {
 } else {
   b <- trunc(b)
 }
+
